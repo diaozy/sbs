@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/book1/index",
+    "pages/book2/index",
+    "pages/book3/index",
+    "pages/play1/index",
+    "pages/play2/index",
+    "pages/play3/index",
+    "pages/my/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#4682B4",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#bb2c08",
+    "borderStyle": "white",
+    "list": [
+      {
+      "pagePath": "pages/book1/index",
+      "text": "SBS 第1册",
+      "iconPath": "images/music.png",
+      "selectedIconPath": "images/music-active.png"
+    },{
+      "pagePath": "pages/book2/index",
+      "text": "SBS 第1册练习",
+      "iconPath": "images/music.png",
+      "selectedIconPath": "images/music-active.png"
+    }
+    ]
+  }
+}
