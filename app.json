@@ -2,10 +2,8 @@
   "pages": [
     "pages/book1/index",
     "pages/book2/index",
-    "pages/book3/index",
     "pages/play1/index",
     "pages/play2/index",
-    "pages/play3/index",
     "pages/my/index"
   ],
   "window": {

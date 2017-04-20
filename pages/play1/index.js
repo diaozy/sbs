@@ -4,12 +4,13 @@ var strRe = /\[(\d{2}:\d{2})\.\d{2,}\](.*)/;
 
 Page({
 	data: {
-		toastHidden: true
+		toastHidden: true,
+		mode:'loop'
 	},
 	onLoad: function(param) {
 				
 		this.setData({
-			currentId: param.id
+			currentId: param.id,
 		})
 		this.idsMap = wx.getStorageSync('ids') || {};
 		this.idsArr = Object.keys(this.idsMap);
@@ -44,12 +45,18 @@ Page({
 
 
 	prev_f: function(e) {
-		this.audioCtx.seek(this.data.per-10);
+		
+		var ts =this.data.timeText.split(':');
+		var time = parseInt(ts[0]) * 60 + parseInt(ts[1]);
+		
+		this.audioCtx.seek(time-10);
 	},
 	next_f: function(e) {
-		this.audioCtx.seek(this.data.per+10);
-	},
+		var ts =this.data.timeText.split(':');
+		var time = parseInt(ts[0]) * 60 + parseInt(ts[1]);
 
+		this.audioCtx.seek(time+10);
+	},
 
 
 	actionEvent: function(e) {
@@ -317,5 +324,18 @@ Page({
 		s = s.length < 2 ? '0' + s : s;
 
 		return `${m}:${s}`;
+	},
+
+  onShareAppMessage: function () {
+    return {
+      title: '朗文国际英语SBS',
+      path: '/pages/play1/index?id='+this.data.currentId,
+      success: function(res) {
+        // 分享成功
+      },
+      fail: function(res) {
+        // 分享失败
+      }
 	}
+  }
 })
