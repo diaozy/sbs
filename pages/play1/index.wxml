@@ -8,6 +8,7 @@
 	</view>
 </view>
 <view class="footer">
+<ad unit-id="adunit-9d4528a8dba26b10"></ad>
 	<view class="progress">
 		<text>{{timeText}}</text>
 		<progress percent="{{per}}" color="red" stroke-width="4"/>
