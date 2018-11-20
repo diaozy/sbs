@@ -9,7 +9,7 @@ var artists2 = "国际朗文英语"
 const songs1 = {
 
 "100001": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/A001Introduction%20.MP3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/A001Introduction%20.MP3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -19,7 +19,7 @@ artists:artists1 ,
 zh: ""
 },
 "100002": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P001_Chapter%2001_Vocabulary%20Preview.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P001_Chapter%2001_Vocabulary%20Preview.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -29,7 +29,7 @@ artists:artists1 ,
 zh: ""
 },
 "100003": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P002_Chapter%2001_Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P002_Chapter%2001_Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -39,7 +39,7 @@ artists:artists1 ,
 zh: ""
 },
 "100004": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P003_Chapter%2001_How%20to%20Say%20it!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P003_Chapter%2001_How%20to%20Say%20it!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -49,7 +49,7 @@ artists:artists1 ,
 zh: ""
 },
 "100005": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P004_Chapter%2001_Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P004_Chapter%2001_Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -59,7 +59,7 @@ artists:artists1 ,
 zh: ""
 },
 "100006": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P005_Chapter%2001_1Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P005_Chapter%2001_1Listening.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -69,7 +69,7 @@ artists:artists1 ,
 zh: ""
 },
 "100007": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P005_Chapter%2001_2Interview.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P005_Chapter%2001_2Interview.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -79,7 +79,7 @@ artists:artists1 ,
 zh: ""
 },
 "100008": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P006_Chapter%2001_Pronunciation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P006_Chapter%2001_Pronunciation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -89,7 +89,7 @@ artists:artists1 ,
 zh: ""
 },
 "100009": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P007_Chapter%2002_Vocabulary%20Preview.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P007_Chapter%2002_Vocabulary%20Preview.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -99,7 +99,7 @@ artists:artists1 ,
 zh: ""
 },
 "100010": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P008_Chapter%2002_In%20the%20Classroom.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P008_Chapter%2002_In%20the%20Classroom.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -109,7 +109,7 @@ artists:artists1 ,
 zh: ""
 },
 "100011": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P009_Chapter%2002_1Model%20Conversations.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P009_Chapter%2002_1Model%20Conversations.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -119,7 +119,7 @@ artists:artists1 ,
 zh: ""
 },
 "100012": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P009_Chapter%2002_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P009_Chapter%2002_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -129,7 +129,7 @@ artists:artists1 ,
 zh: ""
 },
 "100013": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P010_Chapter%2002_At%20Home.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P010_Chapter%2002_At%20Home.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -139,7 +139,7 @@ artists:artists1 ,
 zh: ""
 },
 "100014": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P011_Chapter%2002_1Model%20Conversations.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P011_Chapter%2002_1Model%20Conversations.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -149,7 +149,7 @@ artists:artists1 ,
 zh: ""
 },
 "100015": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P011_Chapter%2002_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P011_Chapter%2002_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -159,7 +159,7 @@ artists:artists1 ,
 zh: ""
 },
 "100016": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P012_Chapter%2002_1Model%20Conversations.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P012_Chapter%2002_1Model%20Conversations.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -169,7 +169,7 @@ artists:artists1 ,
 zh: ""
 },
 "100017": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P012_Chapter%2002_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P012_Chapter%2002_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -179,7 +179,7 @@ artists:artists1 ,
 zh: ""
 },
 "100018": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P013_Chapter%2002_1Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P013_Chapter%2002_1Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -189,7 +189,7 @@ artists:artists1 ,
 zh: ""
 },
 "100019": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P013_Chapter%2002_2How%20to%20Say%20It!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P013_Chapter%2002_2How%20to%20Say%20It!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -199,7 +199,7 @@ artists:artists1 ,
 zh: ""
 },
 "100020": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P014_Chapter%2002_Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P014_Chapter%2002_Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -209,7 +209,7 @@ artists:artists1 ,
 zh: ""
 },
 "100021": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P015_Chapter%2002_1Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P015_Chapter%2002_1Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -219,7 +219,7 @@ artists:artists1 ,
 zh: ""
 },
 "100022": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P015_Chapter%2002_2Listening%201.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P015_Chapter%2002_2Listening%201.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -229,7 +229,7 @@ artists:artists1 ,
 zh: ""
 },
 "100023": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P015_Chapter%2002_3Listening%202.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P015_Chapter%2002_3Listening%202.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -239,7 +239,7 @@ artists:artists1 ,
 zh: ""
 },
 "100024": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P016_Chapter%2002_Pronunciation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P016_Chapter%2002_Pronunciation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -249,7 +249,7 @@ artists:artists1 ,
 zh: ""
 },
 "100025": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P017_Chapter%2003_Vocabulary%20Preview.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P017_Chapter%2003_Vocabulary%20Preview.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -259,7 +259,7 @@ artists:artists1 ,
 zh: ""
 },
 "100026": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P018_Chapter%2003_Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P018_Chapter%2003_Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -269,7 +269,7 @@ artists:artists1 ,
 zh: ""
 },
 "100027": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P019_Chapter%2003_Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P019_Chapter%2003_Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -279,7 +279,7 @@ artists:artists1 ,
 zh: ""
 },
 "100028": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P020_Chapter%2003_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P020_Chapter%2003_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -289,7 +289,7 @@ artists:artists1 ,
 zh: ""
 },
 "100029": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P020_Chapter%2003_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P020_Chapter%2003_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -299,7 +299,7 @@ artists:artists1 ,
 zh: ""
 },
 "100030": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P021_Chapter%2003_How%20to%20Say%20it!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P021_Chapter%2003_How%20to%20Say%20it!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -309,7 +309,7 @@ artists:artists1 ,
 zh: ""
 },
 "100031": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P022_Chapter%2003_Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P022_Chapter%2003_Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -319,7 +319,7 @@ artists:artists1 ,
 zh: ""
 },
 "100032": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P023_Chapter%2003_Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P023_Chapter%2003_Listening.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -329,7 +329,7 @@ artists:artists1 ,
 zh: ""
 },
 "100033": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P024_Chapter%2003_Pronunciation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P024_Chapter%2003_Pronunciation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -339,7 +339,7 @@ artists:artists1 ,
 zh: ""
 },
 "100034": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P025_Side%20by%20Side%20Gazette%2001_1Global%20Exchange.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P025_Side%20by%20Side%20Gazette%2001_1Global%20Exchange.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -349,7 +349,7 @@ artists:artists1 ,
 zh: ""
 },
 "100035": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P025_Side%20by%20Side%20Gazette%2001_2Build%20Your%20Vocabulary!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P025_Side%20by%20Side%20Gazette%2001_2Build%20Your%20Vocabulary!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -359,7 +359,7 @@ artists:artists1 ,
 zh: ""
 },
 "100036": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P026_Side%20by%20Side%20Gazette%2001_1Around%20the%20World.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P026_Side%20by%20Side%20Gazette%2001_1Around%20the%20World.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -369,7 +369,7 @@ artists:artists1 ,
 zh: ""
 },
 "100037": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P026_Side%20by%20Side%20Gazette%2001_2Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P026_Side%20by%20Side%20Gazette%2001_2Listening.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -379,7 +379,7 @@ artists:artists1 ,
 zh: ""
 },
 "100038": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P027_Chapter%2004_Vocabulary%20Preview.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P027_Chapter%2004_Vocabulary%20Preview.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -389,7 +389,7 @@ artists:artists1 ,
 zh: ""
 },
 "100039": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P028_Chapter%2004_Model%20Conversations.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P028_Chapter%2004_Model%20Conversations.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -399,7 +399,7 @@ artists:artists1 ,
 zh: ""
 },
 "100040": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P029_Chapter%2004_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P029_Chapter%2004_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -409,7 +409,7 @@ artists:artists1 ,
 zh: ""
 },
 "100041": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P029_Chapter%2004_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P029_Chapter%2004_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -419,7 +419,7 @@ artists:artists1 ,
 zh: ""
 },
 "100042": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P030_Chapter%2004_How%20to%20Say%20it!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P030_Chapter%2004_How%20to%20Say%20it!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -429,7 +429,7 @@ artists:artists1 ,
 zh: ""
 },
 "100043": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P032_Chapter%2004_Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P032_Chapter%2004_Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -439,7 +439,7 @@ artists:artists1 ,
 zh: ""
 },
 "100044": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P033_Chapter%2004_Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P033_Chapter%2004_Listening.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -449,7 +449,7 @@ artists:artists1 ,
 zh: ""
 },
 "100045": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P034_Chapter%2004_Pronunciation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P034_Chapter%2004_Pronunciation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -459,7 +459,7 @@ artists:artists1 ,
 zh: ""
 },
 "100046": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P035_Chapter%2005_Vocabulary%20Preview.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P035_Chapter%2005_Vocabulary%20Preview.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -469,7 +469,7 @@ artists:artists1 ,
 zh: ""
 },
 "100047": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P036_Chapter%2005_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P036_Chapter%2005_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -479,7 +479,7 @@ artists:artists1 ,
 zh: ""
 },
 "100048": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P036_Chapter%2005_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P036_Chapter%2005_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -489,7 +489,7 @@ artists:artists1 ,
 zh: ""
 },
 "100049": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P038_Chapter%2005_1Model%20Conversations.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P038_Chapter%2005_1Model%20Conversations.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -499,7 +499,7 @@ artists:artists1 ,
 zh: ""
 },
 "100050": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P038_Chapter%2005_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P038_Chapter%2005_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -509,7 +509,7 @@ artists:artists1 ,
 zh: ""
 },
 "100051": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P040_Chapter%2005_1Models.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P040_Chapter%2005_1Models.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -519,7 +519,7 @@ artists:artists1 ,
 zh: ""
 },
 "100052": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P040_Chapter%2005_2How%20to%20Say%20it!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P040_Chapter%2005_2How%20to%20Say%20it!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -529,7 +529,7 @@ artists:artists1 ,
 zh: ""
 },
 "100053": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P041_Chapter%2005_Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P041_Chapter%2005_Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -539,7 +539,7 @@ artists:artists1 ,
 zh: ""
 },
 "100054": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P042_Chapter%2005_Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P042_Chapter%2005_Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -549,7 +549,7 @@ artists:artists1 ,
 zh: ""
 },
 "100055": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P043_Chapter%2005_1Listening%201.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P043_Chapter%2005_1Listening%201.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -559,7 +559,7 @@ artists:artists1 ,
 zh: ""
 },
 "100056": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P043_Chapter%2005_2Listening%202.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P043_Chapter%2005_2Listening%202.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -569,7 +569,7 @@ artists:artists1 ,
 zh: ""
 },
 "100057": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P044_Chapter%2005_Pronunciation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P044_Chapter%2005_Pronunciation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -579,7 +579,7 @@ artists:artists1 ,
 zh: ""
 },
 "100058": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P045_Chapter%2006_Vocabulary%20Preview.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P045_Chapter%2006_Vocabulary%20Preview.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -589,7 +589,7 @@ artists:artists1 ,
 zh: ""
 },
 "100059": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P046_Chapter%2006_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P046_Chapter%2006_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -599,7 +599,7 @@ artists:artists1 ,
 zh: ""
 },
 "100060": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P046_Chapter%2006_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P046_Chapter%2006_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -609,7 +609,7 @@ artists:artists1 ,
 zh: ""
 },
 "100061": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P049_Chapter%2006_Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P049_Chapter%2006_Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -619,7 +619,7 @@ artists:artists1 ,
 zh: ""
 },
 "100062": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P050_Chapter%2006_Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P050_Chapter%2006_Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -629,7 +629,7 @@ artists:artists1 ,
 zh: ""
 },
 "100063": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P051_Chapter%2006_1Listening%201.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P051_Chapter%2006_1Listening%201.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -639,7 +639,7 @@ artists:artists1 ,
 zh: ""
 },
 "100064": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P051_Chapter%2006_2Listening%202.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P051_Chapter%2006_2Listening%202.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -649,7 +649,7 @@ artists:artists1 ,
 zh: ""
 },
 "100065": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P051_Chapter%2006_3How%20to%20Say%20it!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P051_Chapter%2006_3How%20to%20Say%20it!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -659,7 +659,7 @@ artists:artists1 ,
 zh: ""
 },
 "100066": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P052_Chapter%2006_Pronunciation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P052_Chapter%2006_Pronunciation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -669,7 +669,7 @@ artists:artists1 ,
 zh: ""
 },
 "100067": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P053_Side%20by%20Side%20Gazette%2002_1Feature%20Article.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P053_Side%20by%20Side%20Gazette%2002_1Feature%20Article.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -679,7 +679,7 @@ artists:artists1 ,
 zh: ""
 },
 "100068": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P053_Side%20by%20Side%20Gazette%2002_2Build%20Your%20Vocabulary!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P053_Side%20by%20Side%20Gazette%2002_2Build%20Your%20Vocabulary!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -689,7 +689,7 @@ artists:artists1 ,
 zh: ""
 },
 "100069": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P054_Side%20by%20Side%20Gazette%2002_1Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P054_Side%20by%20Side%20Gazette%2002_1Listening.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -699,7 +699,7 @@ artists:artists1 ,
 zh: ""
 },
 "100070": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P054_Side%20by%20Side%20Gazette%2002_2Around%20the%20World.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P054_Side%20by%20Side%20Gazette%2002_2Around%20the%20World.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -709,7 +709,7 @@ artists:artists1 ,
 zh: ""
 },
 "100071": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P054_Side%20by%20Side%20Gazette%2002_3Global%20Exchange.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P054_Side%20by%20Side%20Gazette%2002_3Global%20Exchange.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -719,7 +719,7 @@ artists:artists1 ,
 zh: ""
 },
 "100072": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P055_Chapter%2007_Vocabulary%20Preview.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P055_Chapter%2007_Vocabulary%20Preview.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -729,7 +729,7 @@ artists:artists1 ,
 zh: ""
 },
 "100073": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P056_Chapter%2007_1Model%20Conversations.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P056_Chapter%2007_1Model%20Conversations.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -739,7 +739,7 @@ artists:artists1 ,
 zh: ""
 },
 "100074": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P056_Chapter%2007_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P056_Chapter%2007_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -749,7 +749,7 @@ artists:artists1 ,
 zh: ""
 },
 "100075": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P057_Chapter%2007_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P057_Chapter%2007_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -759,7 +759,7 @@ artists:artists1 ,
 zh: ""
 },
 "100076": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P057_Chapter%2007_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P057_Chapter%2007_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -769,7 +769,7 @@ artists:artists1 ,
 zh: ""
 },
 "100077": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P057_Chapter%2007_3How%20to%20Say%20it!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P057_Chapter%2007_3How%20to%20Say%20it!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -779,7 +779,7 @@ artists:artists1 ,
 zh: ""
 },
 "100078": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P058_Chapter%2007_On%20Your%20Own.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P058_Chapter%2007_On%20Your%20Own.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -789,7 +789,7 @@ artists:artists1 ,
 zh: ""
 },
 "100079": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P059_Chapter%2007_1Model%20Conversations.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P059_Chapter%2007_1Model%20Conversations.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -799,7 +799,7 @@ artists:artists1 ,
 zh: ""
 },
 "100080": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P059_Chapter%2007_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P059_Chapter%2007_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -809,7 +809,7 @@ artists:artists1 ,
 zh: ""
 },
 "100081": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P060_Chapter%2007_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P060_Chapter%2007_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -819,7 +819,7 @@ artists:artists1 ,
 zh: ""
 },
 "100082": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P060_Chapter%2007_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P060_Chapter%2007_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -829,7 +829,7 @@ artists:artists1 ,
 zh: ""
 },
 "100083": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P063_Chapter%2007_Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P063_Chapter%2007_Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -839,7 +839,7 @@ artists:artists1 ,
 zh: ""
 },
 "100084": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P064_Chapter%2007_Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P064_Chapter%2007_Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -849,7 +849,7 @@ artists:artists1 ,
 zh: ""
 },
 "100085": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P065_Chapter%2007_1Listening%201.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P065_Chapter%2007_1Listening%201.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -859,7 +859,7 @@ artists:artists1 ,
 zh: ""
 },
 "100086": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P065_Chapter%2007_2Listening%202.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P065_Chapter%2007_2Listening%202.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -869,7 +869,7 @@ artists:artists1 ,
 zh: ""
 },
 "100087": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P066_Chapter%2007_Pronunciation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P066_Chapter%2007_Pronunciation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -879,7 +879,7 @@ artists:artists1 ,
 zh: ""
 },
 "100088": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P067_Chapter%2008_Vocabulary%20Preview.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P067_Chapter%2008_Vocabulary%20Preview.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -889,7 +889,7 @@ artists:artists1 ,
 zh: ""
 },
 "100089": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P068_Chapter%2008_Clothing.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P068_Chapter%2008_Clothing.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -899,7 +899,7 @@ artists:artists1 ,
 zh: ""
 },
 "100090": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P069_Chapter%2008_1Model%20Conversations.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P069_Chapter%2008_1Model%20Conversations.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -909,7 +909,7 @@ artists:artists1 ,
 zh: ""
 },
 "100091": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P069_Chapter%2008_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P069_Chapter%2008_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -919,7 +919,7 @@ artists:artists1 ,
 zh: ""
 },
 "100092": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P070_Chapter%2008_1Colors.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P070_Chapter%2008_1Colors.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -929,7 +929,7 @@ artists:artists1 ,
 zh: ""
 },
 "100093": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P070_Chapter%2008_2Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P070_Chapter%2008_2Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -939,7 +939,7 @@ artists:artists1 ,
 zh: ""
 },
 "100094": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P070_Chapter%2008_3Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P070_Chapter%2008_3Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -949,7 +949,7 @@ artists:artists1 ,
 zh: ""
 },
 "100095": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P071_Chapter%2008_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P071_Chapter%2008_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -959,7 +959,7 @@ artists:artists1 ,
 zh: ""
 },
 "100096": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P071_Chapter%2008_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P071_Chapter%2008_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -969,7 +969,7 @@ artists:artists1 ,
 zh: ""
 },
 "100097": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P072_Chapter%2008_Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P072_Chapter%2008_Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -979,7 +979,7 @@ artists:artists1 ,
 zh: ""
 },
 "100098": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P073_Chapter%2008_1Model%20Conversations.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P073_Chapter%2008_1Model%20Conversations.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -989,7 +989,7 @@ artists:artists1 ,
 zh: ""
 },
 "100099": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P073_Chapter%2008_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P073_Chapter%2008_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -999,7 +999,7 @@ artists:artists1 ,
 zh: ""
 },
 "100100": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P074_Chapter%2008_1Model%20Conversations.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P074_Chapter%2008_1Model%20Conversations.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1009,7 +1009,7 @@ artists:artists1 ,
 zh: ""
 },
 "100101": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P074_Chapter%2008_2How%20to%20Say%20it!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P074_Chapter%2008_2How%20to%20Say%20it!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1019,7 +1019,7 @@ artists:artists1 ,
 zh: ""
 },
 "100102": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P075_Chapter%2008_1Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P075_Chapter%2008_1Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1029,7 +1029,7 @@ artists:artists1 ,
 zh: ""
 },
 "100103": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P075_Chapter%2008_2Listening%201.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P075_Chapter%2008_2Listening%201.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1039,7 +1039,7 @@ artists:artists1 ,
 zh: ""
 },
 "100104": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P075_Chapter%2008_3Listening%202.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P075_Chapter%2008_3Listening%202.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1049,7 +1049,7 @@ artists:artists1 ,
 zh: ""
 },
 "100105": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P076_Chapter%2008_Pronunciation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P076_Chapter%2008_Pronunciation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1059,7 +1059,7 @@ artists:artists1 ,
 zh: ""
 },
 "100106": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P077_Side%20by%20Side%20Gazette%2003_1Feature%20Article.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P077_Side%20by%20Side%20Gazette%2003_1Feature%20Article.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1069,7 +1069,7 @@ artists:artists1 ,
 zh: ""
 },
 "100107": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P077_Side%20by%20Side%20Gazette%2003_2Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P077_Side%20by%20Side%20Gazette%2003_2Listening.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1079,7 +1079,7 @@ artists:artists1 ,
 zh: ""
 },
 "100108": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P077_Side%20by%20Side%20Gazette%2003_3Build%20Your%20Vocabulary!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P077_Side%20by%20Side%20Gazette%2003_3Build%20Your%20Vocabulary!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1089,7 +1089,7 @@ artists:artists1 ,
 zh: ""
 },
 "100109": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P078_Side%20by%20Side%20Gazette%2003_1Around%20the%20World.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P078_Side%20by%20Side%20Gazette%2003_1Around%20the%20World.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1099,7 +1099,7 @@ artists:artists1 ,
 zh: ""
 },
 "100110": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P078_Side%20by%20Side%20Gazette%2003_2Global%20Exchange.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P078_Side%20by%20Side%20Gazette%2003_2Global%20Exchange.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1109,7 +1109,7 @@ artists:artists1 ,
 zh: ""
 },
 "100111": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P079_Chapter%2009_Vocabulary%20Preview.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P079_Chapter%2009_Vocabulary%20Preview.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1119,7 +1119,7 @@ artists:artists1 ,
 zh: ""
 },
 "100112": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P080_Chapter%2009_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P080_Chapter%2009_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1129,7 +1129,7 @@ artists:artists1 ,
 zh: ""
 },
 "100113": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P080_Chapter%2009_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P080_Chapter%2009_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1139,7 +1139,7 @@ artists:artists1 ,
 zh: ""
 },
 "100114": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P081_Chapter%2009_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P081_Chapter%2009_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1149,7 +1149,7 @@ artists:artists1 ,
 zh: ""
 },
 "100115": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P081_Chapter%2009_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P081_Chapter%2009_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1159,7 +1159,7 @@ artists:artists1 ,
 zh: ""
 },
 "100116": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P082_Chapter%2009_Talk%20About%20It!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P082_Chapter%2009_Talk%20About%20It!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1169,7 +1169,7 @@ artists:artists1 ,
 zh: ""
 },
 "100117": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P083_Chapter%2009_Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P083_Chapter%2009_Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1179,7 +1179,7 @@ artists:artists1 ,
 zh: ""
 },
 "100118": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P084_Chapter%2009_1Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P084_Chapter%2009_1Listening.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1189,7 +1189,7 @@ artists:artists1 ,
 zh: ""
 },
 "100119": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P084_Chapter%2009_2How%20to%20Say%20it!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P084_Chapter%2009_2How%20to%20Say%20it!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1199,7 +1199,7 @@ artists:artists1 ,
 zh: ""
 },
 "100120": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P086_Chapter%2009_Pronunciation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P086_Chapter%2009_Pronunciation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1209,7 +1209,7 @@ artists:artists1 ,
 zh: ""
 },
 "100121": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P087_Chapter%2010_Vocabulary%20Preview.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P087_Chapter%2010_Vocabulary%20Preview.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1219,7 +1219,7 @@ artists:artists1 ,
 zh: ""
 },
 "100122": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_1Stanley's%20International%20Restaurant.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_1Stanley's%20International%20Restaurant.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1229,7 +1229,7 @@ artists:artists1 ,
 zh: ""
 },
 "100123": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_2Model%20Conversation%201.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_2Model%20Conversation%201.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1239,7 +1239,7 @@ artists:artists1 ,
 zh: ""
 },
 "100124": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_3Exercises%201.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_3Exercises%201.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1249,7 +1249,7 @@ artists:artists1 ,
 zh: ""
 },
 "100125": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_4Model%20Conversation%202.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_4Model%20Conversation%202.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1259,7 +1259,7 @@ artists:artists1 ,
 zh: ""
 },
 "100126": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_5Exercises%202.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_5Exercises%202.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1269,7 +1269,7 @@ artists:artists1 ,
 zh: ""
 },
 "100127": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_6Model%20Conversation%203.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_6Model%20Conversation%203.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1279,7 +1279,7 @@ artists:artists1 ,
 zh: ""
 },
 "100128": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_7Exercises%203.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_7Exercises%203.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1289,7 +1289,7 @@ artists:artists1 ,
 zh: ""
 },
 "100129": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_1Model%20Conversation%201.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_1Model%20Conversation%201.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1299,7 +1299,7 @@ artists:artists1 ,
 zh: ""
 },
 "100130": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_2Exercises%201-4.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_2Exercises%201-4.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1309,7 +1309,7 @@ artists:artists1 ,
 zh: ""
 },
 "100131": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_3Model%20Conversation%202.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_3Model%20Conversation%202.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1319,7 +1319,7 @@ artists:artists1 ,
 zh: ""
 },
 "100132": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_4Exercises%205-8.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_4Exercises%205-8.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1329,7 +1329,7 @@ artists:artists1 ,
 zh: ""
 },
 "100133": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_5Model%20Conversation%203.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_5Model%20Conversation%203.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1339,7 +1339,7 @@ artists:artists1 ,
 zh: ""
 },
 "100134": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_6Exercises%209-12.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_6Exercises%209-12.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1349,7 +1349,7 @@ artists:artists1 ,
 zh: ""
 },
 "100135": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P090_Chapter%2010_Busy%20People!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P090_Chapter%2010_Busy%20People!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1359,7 +1359,7 @@ artists:artists1 ,
 zh: ""
 },
 "100136": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P091_Chapter%2010_Models.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P091_Chapter%2010_Models.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1369,7 +1369,7 @@ artists:artists1 ,
 zh: ""
 },
 "100137": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P092_Chapter%2010_Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P092_Chapter%2010_Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1379,7 +1379,7 @@ artists:artists1 ,
 zh: ""
 },
 "100138": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P093_Chapter%2010_1Listening%201.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P093_Chapter%2010_1Listening%201.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1389,7 +1389,7 @@ artists:artists1 ,
 zh: ""
 },
 "100139": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P093_Chapter%2010_2Listening%202.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P093_Chapter%2010_2Listening%202.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1399,7 +1399,7 @@ artists:artists1 ,
 zh: ""
 },
 "100140": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P094_Chapter%2010_Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P094_Chapter%2010_Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1409,7 +1409,7 @@ artists:artists1 ,
 zh: ""
 },
 "100141": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P095_Chapter%2010_How%20to%20Say%20it!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P095_Chapter%2010_How%20to%20Say%20it!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1419,7 +1419,7 @@ artists:artists1 ,
 zh: ""
 },
 "100142": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P096_Chapter%2010_Pronunciation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P096_Chapter%2010_Pronunciation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1429,7 +1429,7 @@ artists:artists1 ,
 zh: ""
 },
 "100143": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P097_Side%20by%20Side%20Gazette%2004_1Feature%20Article.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P097_Side%20by%20Side%20Gazette%2004_1Feature%20Article.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1439,7 +1439,7 @@ artists:artists1 ,
 zh: ""
 },
 "100144": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P097_Side%20by%20Side%20Gazette%2004_2Build%20Your%20Vocabulary!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P097_Side%20by%20Side%20Gazette%2004_2Build%20Your%20Vocabulary!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1449,7 +1449,7 @@ artists:artists1 ,
 zh: ""
 },
 "100145": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P098_Side%20by%20Side%20Gazette%2004_1Around%20the%20World.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P098_Side%20by%20Side%20Gazette%2004_1Around%20the%20World.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1459,7 +1459,7 @@ artists:artists1 ,
 zh: ""
 },
 "100146": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P098_Side%20by%20Side%20Gazette%2004_2Global%20Exchange.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P098_Side%20by%20Side%20Gazette%2004_2Global%20Exchange.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1469,7 +1469,7 @@ artists:artists1 ,
 zh: ""
 },
 "100147": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P098_Side%20by%20Side%20Gazette%2004_3Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P098_Side%20by%20Side%20Gazette%2004_3Listening.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1479,7 +1479,7 @@ artists:artists1 ,
 zh: ""
 },
 "100148": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P099_Chapter%2011_Vocabulary%20Preview.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P099_Chapter%2011_Vocabulary%20Preview.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1489,7 +1489,7 @@ artists:artists1 ,
 zh: ""
 },
 "100149": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P100_Chapter%2011_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P100_Chapter%2011_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1499,7 +1499,7 @@ artists:artists1 ,
 zh: ""
 },
 "100150": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P100_Chapter%2011_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P100_Chapter%2011_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1509,7 +1509,7 @@ artists:artists1 ,
 zh: ""
 },
 "100151": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P101_Chapter%2011_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P101_Chapter%2011_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1519,7 +1519,7 @@ artists:artists1 ,
 zh: ""
 },
 "100152": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P101_Chapter%2011_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P101_Chapter%2011_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1529,7 +1529,7 @@ artists:artists1 ,
 zh: ""
 },
 "100153": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P102_Chapter%2011_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P102_Chapter%2011_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1539,7 +1539,7 @@ artists:artists1 ,
 zh: ""
 },
 "100154": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P102_Chapter%2011_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P102_Chapter%2011_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1549,7 +1549,7 @@ artists:artists1 ,
 zh: ""
 },
 "100155": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P103_Chapter%2011_1On%20Your%20Own.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P103_Chapter%2011_1On%20Your%20Own.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1559,7 +1559,7 @@ artists:artists1 ,
 zh: ""
 },
 "100156": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P103_Chapter%2011_2How%20to%20Say%20it!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P103_Chapter%2011_2How%20to%20Say%20it!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1569,7 +1569,7 @@ artists:artists1 ,
 zh: ""
 },
 "100157": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P104_Chapter%2011_Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P104_Chapter%2011_Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1579,7 +1579,7 @@ artists:artists1 ,
 zh: ""
 },
 "100158": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P105_Chapter%2011_Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P105_Chapter%2011_Listening.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1589,7 +1589,7 @@ artists:artists1 ,
 zh: ""
 },
 "100159": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P106_Chapter%2011_Pronunciation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P106_Chapter%2011_Pronunciation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1599,7 +1599,7 @@ artists:artists1 ,
 zh: ""
 },
 "100160": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P107_Chapter%2012_Vocabulary%20Preview.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P107_Chapter%2012_Vocabulary%20Preview.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1609,7 +1609,7 @@ artists:artists1 ,
 zh: ""
 },
 "100161": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P108_Chapter%2012_1Model%20Conversations.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P108_Chapter%2012_1Model%20Conversations.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1619,7 +1619,7 @@ artists:artists1 ,
 zh: ""
 },
 "100162": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P108_Chapter%2012_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P108_Chapter%2012_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1629,7 +1629,7 @@ artists:artists1 ,
 zh: ""
 },
 "100163": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P110_Chapter%2012_Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P110_Chapter%2012_Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1639,7 +1639,7 @@ artists:artists1 ,
 zh: ""
 },
 "100164": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P111_Chapter%2012_1Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P111_Chapter%2012_1Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1649,7 +1649,7 @@ artists:artists1 ,
 zh: ""
 },
 "100165": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P111_Chapter%2012_2How%20to%20Say%20it!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P111_Chapter%2012_2How%20to%20Say%20it!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1659,7 +1659,7 @@ artists:artists1 ,
 zh: ""
 },
 "100166": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P112_Chapter%2012_1Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P112_Chapter%2012_1Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1669,7 +1669,7 @@ artists:artists1 ,
 zh: ""
 },
 "100167": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P112_Chapter%2012_2Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P112_Chapter%2012_2Listening.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1679,7 +1679,7 @@ artists:artists1 ,
 zh: ""
 },
 "100168": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P113_Chapter%2012_Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P113_Chapter%2012_Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1689,7 +1689,7 @@ artists:artists1 ,
 zh: ""
 },
 "100169": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P114_Chapter%2012_Pronunciation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P114_Chapter%2012_Pronunciation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1699,7 +1699,7 @@ artists:artists1 ,
 zh: ""
 },
 "100170": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P115_Side%20by%20Side%20Gazette%2005_1Feature%20Article.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P115_Side%20by%20Side%20Gazette%2005_1Feature%20Article.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1709,7 +1709,7 @@ artists:artists1 ,
 zh: ""
 },
 "100171": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P115_Side%20by%20Side%20Gazette%2005_2Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P115_Side%20by%20Side%20Gazette%2005_2Listening.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1719,7 +1719,7 @@ artists:artists1 ,
 zh: ""
 },
 "100172": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P115_Side%20by%20Side%20Gazette%2005_3Build%20Your%20Vocabulary!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P115_Side%20by%20Side%20Gazette%2005_3Build%20Your%20Vocabulary!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1729,7 +1729,7 @@ artists:artists1 ,
 zh: ""
 },
 "100173": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P116_Side%20by%20Side%20Gazette%2005_1Around%20the%20World.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P116_Side%20by%20Side%20Gazette%2005_1Around%20the%20World.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1739,7 +1739,7 @@ artists:artists1 ,
 zh: ""
 },
 "100174": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P116_Side%20by%20Side%20Gazette%2005_2Global%20Exchange.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P116_Side%20by%20Side%20Gazette%2005_2Global%20Exchange.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1749,7 +1749,7 @@ artists:artists1 ,
 zh: ""
 },
 "100175": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P117_Chapter%2013_Vocabulary%20Preview.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P117_Chapter%2013_Vocabulary%20Preview.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1759,7 +1759,7 @@ artists:artists1 ,
 zh: ""
 },
 "100176": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P118_Chapter%2013_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P118_Chapter%2013_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1769,7 +1769,7 @@ artists:artists1 ,
 zh: ""
 },
 "100177": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P118_Chapter%2013_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P118_Chapter%2013_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1779,7 +1779,7 @@ artists:artists1 ,
 zh: ""
 },
 "100178": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P119_Chapter%2013_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P119_Chapter%2013_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1789,7 +1789,7 @@ artists:artists1 ,
 zh: ""
 },
 "100179": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P119_Chapter%2013_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P119_Chapter%2013_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1799,7 +1799,7 @@ artists:artists1 ,
 zh: ""
 },
 "100180": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P120_Chapter%2013_Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P120_Chapter%2013_Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1809,7 +1809,7 @@ artists:artists1 ,
 zh: ""
 },
 "100181": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P121_Chapter%2013_1Listening%201.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P121_Chapter%2013_1Listening%201.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1819,7 +1819,7 @@ artists:artists1 ,
 zh: ""
 },
 "100182": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P121_Chapter%2013_2Listening%202.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P121_Chapter%2013_2Listening%202.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1829,7 +1829,7 @@ artists:artists1 ,
 zh: ""
 },
 "100183": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P122_Chapter%2013_1Model%20Conversations.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P122_Chapter%2013_1Model%20Conversations.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1839,7 +1839,7 @@ artists:artists1 ,
 zh: ""
 },
 "100184": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P122_Chapter%2013_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P122_Chapter%2013_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1849,7 +1849,7 @@ artists:artists1 ,
 zh: ""
 },
 "100185": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P123_Chapter%2013_How%20to%20Say%20it!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P123_Chapter%2013_How%20to%20Say%20it!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1859,7 +1859,7 @@ artists:artists1 ,
 zh: ""
 },
 "100186": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P124_Chapter%2013_Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P124_Chapter%2013_Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1869,7 +1869,7 @@ artists:artists1 ,
 zh: ""
 },
 "100187": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P126_Chapter%2013_Pronunciation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P126_Chapter%2013_Pronunciation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1879,7 +1879,7 @@ artists:artists1 ,
 zh: ""
 },
 "100188": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P127_Chapter%2014_Vocabulary%20Preview.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P127_Chapter%2014_Vocabulary%20Preview.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1889,7 +1889,7 @@ artists:artists1 ,
 zh: ""
 },
 "100189": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P128_Chapter%2014_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P128_Chapter%2014_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1899,7 +1899,7 @@ artists:artists1 ,
 zh: ""
 },
 "100190": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P128_Chapter%2014_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P128_Chapter%2014_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1909,7 +1909,7 @@ artists:artists1 ,
 zh: ""
 },
 "100191": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P129_Chapter%2014_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P129_Chapter%2014_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1919,7 +1919,7 @@ artists:artists1 ,
 zh: ""
 },
 "100192": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P129_Chapter%2014_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P129_Chapter%2014_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1929,7 +1929,7 @@ artists:artists1 ,
 zh: ""
 },
 "100193": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P130_Chapter%2014_Model%20Conversations.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P130_Chapter%2014_Model%20Conversations.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1939,7 +1939,7 @@ artists:artists1 ,
 zh: ""
 },
 "100194": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P131_Chapter%2014_Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P131_Chapter%2014_Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1949,7 +1949,7 @@ artists:artists1 ,
 zh: ""
 },
 "100195": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P132_Chapter%2014_1Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P132_Chapter%2014_1Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1959,7 +1959,7 @@ artists:artists1 ,
 zh: ""
 },
 "100196": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P132_Chapter%2014_2Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P132_Chapter%2014_2Listening.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1969,7 +1969,7 @@ artists:artists1 ,
 zh: ""
 },
 "100197": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P133_Chapter%2014_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P133_Chapter%2014_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1979,7 +1979,7 @@ artists:artists1 ,
 zh: ""
 },
 "100198": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P133_Chapter%2014_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P133_Chapter%2014_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1989,7 +1989,7 @@ artists:artists1 ,
 zh: ""
 },
 "100199": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P134_Chapter%2014_Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P134_Chapter%2014_Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -1999,7 +1999,7 @@ artists:artists1 ,
 zh: ""
 },
 "100200": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P135_Chapter%2014_1Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P135_Chapter%2014_1Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2009,7 +2009,7 @@ artists:artists1 ,
 zh: ""
 },
 "100201": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P135_Chapter%2014_2How%20to%20Say%20it!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P135_Chapter%2014_2How%20to%20Say%20it!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2019,7 +2019,7 @@ artists:artists1 ,
 zh: ""
 },
 "100202": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P136_Chapter%2014_Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P136_Chapter%2014_Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2029,7 +2029,7 @@ artists:artists1 ,
 zh: ""
 },
 "100203": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P137_Chapter%2014_Pronunciation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P137_Chapter%2014_Pronunciation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2039,7 +2039,7 @@ artists:artists1 ,
 zh: ""
 },
 "100204": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P139_Side%20by%20Side%20Gazette%2006_1Feature%20Article.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P139_Side%20by%20Side%20Gazette%2006_1Feature%20Article.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2049,7 +2049,7 @@ artists:artists1 ,
 zh: ""
 },
 "100205": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P139_Side%20by%20Side%20Gazette%2006_2Build%20Your%20Vocabulary!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P139_Side%20by%20Side%20Gazette%2006_2Build%20Your%20Vocabulary!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2059,7 +2059,7 @@ artists:artists1 ,
 zh: ""
 },
 "100206": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P140_Side%20by%20Side%20Gazette%2006_1Around%20the%20World.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P140_Side%20by%20Side%20Gazette%2006_1Around%20the%20World.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2069,7 +2069,7 @@ artists:artists1 ,
 zh: ""
 },
 "100207": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P140_Side%20by%20Side%20Gazette%2006_2Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P140_Side%20by%20Side%20Gazette%2006_2Listening.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2079,7 +2079,7 @@ artists:artists1 ,
 zh: ""
 },
 "100208": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P140_Side%20by%20Side%20Gazette%2006_3Global%20Exchange.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P140_Side%20by%20Side%20Gazette%2006_3Global%20Exchange.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2089,7 +2089,7 @@ artists:artists1 ,
 zh: ""
 },
 "100209": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P141_Chapter%2015_Vocabulary%20Preview.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P141_Chapter%2015_Vocabulary%20Preview.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2099,7 +2099,7 @@ artists:artists1 ,
 zh: ""
 },
 "100210": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P142_Chapter%2015_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P142_Chapter%2015_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2109,7 +2109,7 @@ artists:artists1 ,
 zh: ""
 },
 "100211": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P142_Chapter%2015_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P142_Chapter%2015_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2119,7 +2119,7 @@ artists:artists1 ,
 zh: ""
 },
 "100212": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P142_Chapter%2015_3How%20to%20Say%20it!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P142_Chapter%2015_3How%20to%20Say%20it!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2129,7 +2129,7 @@ artists:artists1 ,
 zh: ""
 },
 "100213": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P143_Chapter%2015_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P143_Chapter%2015_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2139,7 +2139,7 @@ artists:artists1 ,
 zh: ""
 },
 "100214": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P143_Chapter%2015_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P143_Chapter%2015_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2149,7 +2149,7 @@ artists:artists1 ,
 zh: ""
 },
 "100215": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P144_Chapter%2015_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P144_Chapter%2015_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2159,7 +2159,7 @@ artists:artists1 ,
 zh: ""
 },
 "100216": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P144_Chapter%2015_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P144_Chapter%2015_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2169,7 +2169,7 @@ artists:artists1 ,
 zh: ""
 },
 "100217": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P146_Chapter%2015_Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P146_Chapter%2015_Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2179,7 +2179,7 @@ artists:artists1 ,
 zh: ""
 },
 "100218": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P147_Chapter%2015_Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P147_Chapter%2015_Listening.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2189,7 +2189,7 @@ artists:artists1 ,
 zh: ""
 },
 "100219": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P148_Chapter%2015_Pronunciation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P148_Chapter%2015_Pronunciation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2199,7 +2199,7 @@ artists:artists1 ,
 zh: ""
 },
 "100220": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P149_Chapter%2016_Vocabulary%20Preview.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P149_Chapter%2016_Vocabulary%20Preview.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2209,7 +2209,7 @@ artists:artists1 ,
 zh: ""
 },
 "100221": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P150_Chapter%2016_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P150_Chapter%2016_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2219,7 +2219,7 @@ artists:artists1 ,
 zh: ""
 },
 "100222": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P150_Chapter%2016_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P150_Chapter%2016_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2229,7 +2229,7 @@ artists:artists1 ,
 zh: ""
 },
 "100223": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P151_Chapter%2016_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P151_Chapter%2016_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2239,7 +2239,7 @@ artists:artists1 ,
 zh: ""
 },
 "100224": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P151_Chapter%2016_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P151_Chapter%2016_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2249,7 +2249,7 @@ artists:artists1 ,
 zh: ""
 },
 "100225": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P152_Chapter%2016_Talk%20About%20It!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P152_Chapter%2016_Talk%20About%20It!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2259,7 +2259,7 @@ artists:artists1 ,
 zh: ""
 },
 "100226": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P153_Chapter%2016_How%20to%20Say%20it!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P153_Chapter%2016_How%20to%20Say%20it!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2269,7 +2269,7 @@ artists:artists1 ,
 zh: ""
 },
 "100227": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P154_Chapter%2016_Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P154_Chapter%2016_Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2279,7 +2279,7 @@ artists:artists1 ,
 zh: ""
 },
 "100228": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P155_Chapter%2016_Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P155_Chapter%2016_Listening.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2289,7 +2289,7 @@ artists:artists1 ,
 zh: ""
 },
 "100229": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P156_Chapter%2016_Pronunciation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P156_Chapter%2016_Pronunciation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2299,7 +2299,7 @@ artists:artists1 ,
 zh: ""
 },
 "100230": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P157_Chapter%2017_Vocabulary%20Preview.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P157_Chapter%2017_Vocabulary%20Preview.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2309,7 +2309,7 @@ artists:artists1 ,
 zh: ""
 },
 "100231": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P158_Chapter%2017_1Model.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P158_Chapter%2017_1Model.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2319,7 +2319,7 @@ artists:artists1 ,
 zh: ""
 },
 "100232": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P158_Chapter%2017_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P158_Chapter%2017_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2329,7 +2329,7 @@ artists:artists1 ,
 zh: ""
 },
 "100233": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P159_Chapter%2017_1Model.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P159_Chapter%2017_1Model.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2339,7 +2339,7 @@ artists:artists1 ,
 zh: ""
 },
 "100234": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P159_Chapter%2017_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P159_Chapter%2017_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2349,7 +2349,7 @@ artists:artists1 ,
 zh: ""
 },
 "100235": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P159_Chapter%2017_3How%20to%20Say%20it!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P159_Chapter%2017_3How%20to%20Say%20it!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2359,7 +2359,7 @@ artists:artists1 ,
 zh: ""
 },
 "100236": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P160_Chapter%2017_1Model%20Conversation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P160_Chapter%2017_1Model%20Conversation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2369,7 +2369,7 @@ artists:artists1 ,
 zh: ""
 },
 "100237": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P160_Chapter%2017_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P160_Chapter%2017_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2379,7 +2379,7 @@ artists:artists1 ,
 zh: ""
 },
 "100238": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P161_Chapter%2017_1Model%20Conversations.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P161_Chapter%2017_1Model%20Conversations.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2389,7 +2389,7 @@ artists:artists1 ,
 zh: ""
 },
 "100239": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P161_Chapter%2017_2Exercises.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P161_Chapter%2017_2Exercises.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2399,7 +2399,7 @@ artists:artists1 ,
 zh: ""
 },
 "100240": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P162_Chapter%2017_Reading.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P162_Chapter%2017_Reading.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2409,7 +2409,7 @@ artists:artists1 ,
 zh: ""
 },
 "100241": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P163_Chapter%2017_Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P163_Chapter%2017_Listening.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2419,7 +2419,7 @@ artists:artists1 ,
 zh: ""
 },
 "100242": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P164_Chapter%2017_Pronunciation.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P164_Chapter%2017_Pronunciation.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2429,7 +2429,7 @@ artists:artists1 ,
 zh: ""
 },
 "100243": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P165_Side%20by%20Side%20Gazette%2007_1Feature%20Article.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P165_Side%20by%20Side%20Gazette%2007_1Feature%20Article.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2439,7 +2439,7 @@ artists:artists1 ,
 zh: ""
 },
 "100244": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P165_Side%20by%20Side%20Gazette%2007_2Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P165_Side%20by%20Side%20Gazette%2007_2Listening.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2449,7 +2449,7 @@ artists:artists1 ,
 zh: ""
 },
 "100245": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P165_Side%20by%20Side%20Gazette%2007_3Build%20Your%20Vocabulary!.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P165_Side%20by%20Side%20Gazette%2007_3Build%20Your%20Vocabulary!.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2459,7 +2459,7 @@ artists:artists1 ,
 zh: ""
 },
 "100246": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P166_Side%20by%20Side%20Gazette%2007_1Around%20the%20World.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P166_Side%20by%20Side%20Gazette%2007_1Around%20the%20World.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2469,7 +2469,7 @@ artists:artists1 ,
 zh: ""
 },
 "100247": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P166_Side%20by%20Side%20Gazette%2007_2Global%20Exchange.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P166_Side%20by%20Side%20Gazette%2007_2Global%20Exchange.mp3",
 album: { 
 picUrl: picUrl1,
 name: name1,
@@ -2484,7 +2484,7 @@ zh: ""
 const songs2 = {
 
 "200001": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/A001Introduction%20.MP3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/A001Introduction%20.MP3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2494,7 +2494,7 @@ artists:artists2 ,
 zh: ""
 },
 "200002": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P003_Chapter%2001_Exercise%20C%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P003_Chapter%2001_Exercise%20C%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2504,7 +2504,7 @@ artists:artists2 ,
 zh: ""
 },
 "200003": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P004_Chapter%2001_Exercise%20E%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P004_Chapter%2001_Exercise%20E%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2514,7 +2514,7 @@ artists:artists2 ,
 zh: ""
 },
 "200004": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P005_Chapter%2001_Exercise%20F%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P005_Chapter%2001_Exercise%20F%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2524,7 +2524,7 @@ artists:artists2 ,
 zh: ""
 },
 "200005": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P005_Chapter%2001_Exercise%20H%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P005_Chapter%2001_Exercise%20H%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2534,7 +2534,7 @@ artists:artists2 ,
 zh: ""
 },
 "200006": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P006_Chapter%2002_Exercise%20B%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P006_Chapter%2002_Exercise%20B%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2544,7 +2544,7 @@ artists:artists2 ,
 zh: ""
 },
 "200007": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P011_Chapter%2002_Exercise%20J%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P011_Chapter%2002_Exercise%20J%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2554,7 +2554,7 @@ artists:artists2 ,
 zh: ""
 },
 "200008": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P011_Chapter%2002_Exercise%20K%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P011_Chapter%2002_Exercise%20K%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2564,7 +2564,7 @@ artists:artists2 ,
 zh: ""
 },
 "200009": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P012_Chapter%2002_Exercise%20M%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P012_Chapter%2002_Exercise%20M%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2574,7 +2574,7 @@ artists:artists2 ,
 zh: ""
 },
 "200010": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P012_Chapter%2002_Exercise%20N%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P012_Chapter%2002_Exercise%20N%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2584,7 +2584,7 @@ artists:artists2 ,
 zh: ""
 },
 "200011": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P015_Chapter%2003_Exercise%20C%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P015_Chapter%2003_Exercise%20C%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2594,7 +2594,7 @@ artists:artists2 ,
 zh: ""
 },
 "200012": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P016_Chapter%2003_Exercise%20D%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P016_Chapter%2003_Exercise%20D%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2604,7 +2604,7 @@ artists:artists2 ,
 zh: ""
 },
 "200013": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P018_Chapter%2003_Exercise%20F%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P018_Chapter%2003_Exercise%20F%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2614,7 +2614,7 @@ artists:artists2 ,
 zh: ""
 },
 "200014": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P020_Check-Up%20Test%20Chapters%2001-03_Exercise%20D%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P020_Check-Up%20Test%20Chapters%2001-03_Exercise%20D%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2624,7 +2624,7 @@ artists:artists2 ,
 zh: ""
 },
 "200015": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P022_Chapter%2004_Exercise%20C%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P022_Chapter%2004_Exercise%20C%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2634,7 +2634,7 @@ artists:artists2 ,
 zh: ""
 },
 "200016": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P024_Chapter%2004_Exercise%20F%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P024_Chapter%2004_Exercise%20F%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2644,7 +2644,7 @@ artists:artists2 ,
 zh: ""
 },
 "200017": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P024_Chapter%2004_Exercise%20G%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P024_Chapter%2004_Exercise%20G%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2654,7 +2654,7 @@ artists:artists2 ,
 zh: ""
 },
 "200018": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P027_Chapter%2005_Exercise%20C%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P027_Chapter%2005_Exercise%20C%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2664,7 +2664,7 @@ artists:artists2 ,
 zh: ""
 },
 "200019": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P029_Chapter%2005_Exercise%20F%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P029_Chapter%2005_Exercise%20F%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2674,7 +2674,7 @@ artists:artists2 ,
 zh: ""
 },
 "200020": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P032_Chapter%2005_Exercise%20K%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P032_Chapter%2005_Exercise%20K%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2684,7 +2684,7 @@ artists:artists2 ,
 zh: ""
 },
 "200021": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P034_Chapter%2005_Exercise%20O%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P034_Chapter%2005_Exercise%20O%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2694,7 +2694,7 @@ artists:artists2 ,
 zh: ""
 },
 "200022": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P034_Chapter%2005_Exercise%20P%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P034_Chapter%2005_Exercise%20P%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2704,7 +2704,7 @@ artists:artists2 ,
 zh: ""
 },
 "200023": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P036_Chapter%2006_Exercise%20B%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P036_Chapter%2006_Exercise%20B%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2714,7 +2714,7 @@ artists:artists2 ,
 zh: ""
 },
 "200024": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P037_Chapter%2006_Exercise%20D%20GrammarSong.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P037_Chapter%2006_Exercise%20D%20GrammarSong.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2724,7 +2724,7 @@ artists:artists2 ,
 zh: ""
 },
 "200025": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P039_Chapter%2006_Exercise%20F%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P039_Chapter%2006_Exercise%20F%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2734,7 +2734,7 @@ artists:artists2 ,
 zh: ""
 },
 "200026": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P040_Check-Up%20Test%20Chapters%2004-06_Exercise%20E%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P040_Check-Up%20Test%20Chapters%2004-06_Exercise%20E%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2744,7 +2744,7 @@ artists:artists2 ,
 zh: ""
 },
 "200027": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P043_Chapter%2007_Exercise%20C%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P043_Chapter%2007_Exercise%20C%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2754,7 +2754,7 @@ artists:artists2 ,
 zh: ""
 },
 "200028": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P044_Chapter%2007_Exercise%20E%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P044_Chapter%2007_Exercise%20E%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2764,7 +2764,7 @@ artists:artists2 ,
 zh: ""
 },
 "200029": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P049_Chapter%2007_Exercise%20J%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P049_Chapter%2007_Exercise%20J%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2774,7 +2774,7 @@ artists:artists2 ,
 zh: ""
 },
 "200030": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P051_Chapter%2008_Exercise%20D%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P051_Chapter%2008_Exercise%20D%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2784,7 +2784,7 @@ artists:artists2 ,
 zh: ""
 },
 "200031": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P052_Chapter%2008_Exercise%20E%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P052_Chapter%2008_Exercise%20E%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2794,7 +2794,7 @@ artists:artists2 ,
 zh: ""
 },
 "200032": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P054_Chapter%2008_Exercise%20H%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P054_Chapter%2008_Exercise%20H%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2804,7 +2804,7 @@ artists:artists2 ,
 zh: ""
 },
 "200033": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P054_Chapter%2008_Exercise%20I%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P054_Chapter%2008_Exercise%20I%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2814,7 +2814,7 @@ artists:artists2 ,
 zh: ""
 },
 "200034": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P057_Chapter%2008_Exercise%20N%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P057_Chapter%2008_Exercise%20N%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2824,7 +2824,7 @@ artists:artists2 ,
 zh: ""
 },
 "200035": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P057_Chapter%2008_Exercise%20O%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P057_Chapter%2008_Exercise%20O%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2834,7 +2834,7 @@ artists:artists2 ,
 zh: ""
 },
 "200036": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P059_Chapter%2008_Exercise%20Q%20GrammarSong.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P059_Chapter%2008_Exercise%20Q%20GrammarSong.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2844,7 +2844,7 @@ artists:artists2 ,
 zh: ""
 },
 "200037": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P061_Check-Up%20Test%20Chapters%2007-08_Exercise%20F%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P061_Check-Up%20Test%20Chapters%2007-08_Exercise%20F%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2854,7 +2854,7 @@ artists:artists2 ,
 zh: ""
 },
 "200038": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P063_Chapter%2009_Exercise%20B%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P063_Chapter%2009_Exercise%20B%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2864,7 +2864,7 @@ artists:artists2 ,
 zh: ""
 },
 "200039": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P065_Chapter%2009_Exercise%20E%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P065_Chapter%2009_Exercise%20E%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2874,7 +2874,7 @@ artists:artists2 ,
 zh: ""
 },
 "200040": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P066_Chapter%2009_Exercise%20G%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P066_Chapter%2009_Exercise%20G%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2884,7 +2884,7 @@ artists:artists2 ,
 zh: ""
 },
 "200041": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P068_Chapter%2009_Exercise%20J%20Listening%20and%20Pronounce.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P068_Chapter%2009_Exercise%20J%20Listening%20and%20Pronounce.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2894,7 +2894,7 @@ artists:artists2 ,
 zh: ""
 },
 "200042": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P070_Chapter%2010_Exercise%20D%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P070_Chapter%2010_Exercise%20D%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2904,7 +2904,7 @@ artists:artists2 ,
 zh: ""
 },
 "200043": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P072_Chapter%2010_Exercise%20I%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P072_Chapter%2010_Exercise%20I%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2914,7 +2914,7 @@ artists:artists2 ,
 zh: ""
 },
 "200044": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P073_Chapter%2010_Exercise%20J%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P073_Chapter%2010_Exercise%20J%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2924,7 +2924,7 @@ artists:artists2 ,
 zh: ""
 },
 "200045": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P075_Check-Up%20Test%20Chapters%2009-10_Exercise%20D%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P075_Check-Up%20Test%20Chapters%2009-10_Exercise%20D%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2934,7 +2934,7 @@ artists:artists2 ,
 zh: ""
 },
 "200046": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P077_Chapter%2011_Exercise%20C%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P077_Chapter%2011_Exercise%20C%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2944,7 +2944,7 @@ artists:artists2 ,
 zh: ""
 },
 "200047": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P078_Chapter%2011_Exercise%20G%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P078_Chapter%2011_Exercise%20G%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2954,7 +2954,7 @@ artists:artists2 ,
 zh: ""
 },
 "200048": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P079_Chapter%2011_Exercise%20I%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P079_Chapter%2011_Exercise%20I%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2964,7 +2964,7 @@ artists:artists2 ,
 zh: ""
 },
 "200049": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P082_Chapter%2011_Exercise%20N%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P082_Chapter%2011_Exercise%20N%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2974,7 +2974,7 @@ artists:artists2 ,
 zh: ""
 },
 "200050": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P085_Chapter%2012_Exercise%20C%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P085_Chapter%2012_Exercise%20C%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2984,7 +2984,7 @@ artists:artists2 ,
 zh: ""
 },
 "200051": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P085_Chapter%2012_Exercise%20D%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P085_Chapter%2012_Exercise%20D%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -2994,7 +2994,7 @@ artists:artists2 ,
 zh: ""
 },
 "200052": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P089_Chapter%2012_Exercise%20H%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P089_Chapter%2012_Exercise%20H%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3004,7 +3004,7 @@ artists:artists2 ,
 zh: ""
 },
 "200053": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P091_Check-Up%20Test%20Chapters%2011-12_Exercise%20E%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P091_Check-Up%20Test%20Chapters%2011-12_Exercise%20E%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3014,7 +3014,7 @@ artists:artists2 ,
 zh: ""
 },
 "200054": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P093_Chapter%2013_Exercise%20D%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P093_Chapter%2013_Exercise%20D%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3024,7 +3024,7 @@ artists:artists2 ,
 zh: ""
 },
 "200055": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P095_Chapter%2013_Exercise%20G%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P095_Chapter%2013_Exercise%20G%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3034,7 +3034,7 @@ artists:artists2 ,
 zh: ""
 },
 "200056": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P097_Chapter%2013_Exercise%20K%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P097_Chapter%2013_Exercise%20K%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3044,7 +3044,7 @@ artists:artists2 ,
 zh: ""
 },
 "200057": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P098_Chapter%2013_Exercise%20M%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P098_Chapter%2013_Exercise%20M%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3054,7 +3054,7 @@ artists:artists2 ,
 zh: ""
 },
 "200058": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P099_Chapter%2013_Exercise%20N%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P099_Chapter%2013_Exercise%20N%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3064,7 +3064,7 @@ artists:artists2 ,
 zh: ""
 },
 "200059": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P099_Chapter%2013_Exercise%20O%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P099_Chapter%2013_Exercise%20O%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3074,7 +3074,7 @@ artists:artists2 ,
 zh: ""
 },
 "200060": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P101_Chapter%2014_Exercise%20D%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P101_Chapter%2014_Exercise%20D%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3084,7 +3084,7 @@ artists:artists2 ,
 zh: ""
 },
 "200061": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P102_Chapter%2014_Exercise%20H%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P102_Chapter%2014_Exercise%20H%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3094,7 +3094,7 @@ artists:artists2 ,
 zh: ""
 },
 "200062": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P103_Chapter%2014_Exercise%20J%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P103_Chapter%2014_Exercise%20J%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3104,7 +3104,7 @@ artists:artists2 ,
 zh: ""
 },
 "200063": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P107_Chapter%2014_Exercise%20Q%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P107_Chapter%2014_Exercise%20Q%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3114,7 +3114,7 @@ artists:artists2 ,
 zh: ""
 },
 "200064": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P108_Chapter%2014_Exercise%20T%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P108_Chapter%2014_Exercise%20T%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3124,7 +3124,7 @@ artists:artists2 ,
 zh: ""
 },
 "200065": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P110_Chapter%2014_Exercise%20W%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P110_Chapter%2014_Exercise%20W%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3134,7 +3134,7 @@ artists:artists2 ,
 zh: ""
 },
 "200066": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P111_Chapter%2014_Exercise%20X%20GrammarSong.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P111_Chapter%2014_Exercise%20X%20GrammarSong.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3144,7 +3144,7 @@ artists:artists2 ,
 zh: ""
 },
 "200067": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P113_Check-Up%20Test%20Chapters%2013-14_Exercise%20G%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P113_Check-Up%20Test%20Chapters%2013-14_Exercise%20G%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3154,7 +3154,7 @@ artists:artists2 ,
 zh: ""
 },
 "200068": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P114_Chapter%2015_Exercise%20B%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P114_Chapter%2015_Exercise%20B%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3164,7 +3164,7 @@ artists:artists2 ,
 zh: ""
 },
 "200069": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P115_Chapter%2015_Exercise%20C%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P115_Chapter%2015_Exercise%20C%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3174,7 +3174,7 @@ artists:artists2 ,
 zh: ""
 },
 "200070": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P117_Chapter%2015_Exercise%20F%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P117_Chapter%2015_Exercise%20F%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3184,7 +3184,7 @@ artists:artists2 ,
 zh: ""
 },
 "200071": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P120_Chapter%2015_Exercise%20J%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P120_Chapter%2015_Exercise%20J%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3194,7 +3194,7 @@ artists:artists2 ,
 zh: ""
 },
 "200072": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P125_Chapter%2016_Exercise%20F%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P125_Chapter%2016_Exercise%20F%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3204,7 +3204,7 @@ artists:artists2 ,
 zh: ""
 },
 "200073": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P126_Chapter%2016_Exercise%20I%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P126_Chapter%2016_Exercise%20I%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3214,7 +3214,7 @@ artists:artists2 ,
 zh: ""
 },
 "200074": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P128_Chapter%2016_Exercise%20L%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P128_Chapter%2016_Exercise%20L%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3224,7 +3224,7 @@ artists:artists2 ,
 zh: ""
 },
 "200075": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P128_Chapter%2016_Exercise%20M%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P128_Chapter%2016_Exercise%20M%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3234,7 +3234,7 @@ artists:artists2 ,
 zh: ""
 },
 "200076": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P129_Chapter%2017_Exercise%20B%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P129_Chapter%2017_Exercise%20B%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3244,7 +3244,7 @@ artists:artists2 ,
 zh: ""
 },
 "200077": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P131_Chapter%2017_Exercise%20E%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P131_Chapter%2017_Exercise%20E%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3254,7 +3254,7 @@ artists:artists2 ,
 zh: ""
 },
 "200078": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P133_Chapter%2017_Exercise%20G%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P133_Chapter%2017_Exercise%20G%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3264,7 +3264,7 @@ artists:artists2 ,
 zh: ""
 },
 "200079": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P134_Chapter%2017_Exercise%20I%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P134_Chapter%2017_Exercise%20I%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3274,7 +3274,7 @@ artists:artists2 ,
 zh: ""
 },
 "200080": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P135_Chapter%2017_Exercise%20J%20GrammarRap.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P135_Chapter%2017_Exercise%20J%20GrammarRap.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,
@@ -3284,7 +3284,7 @@ artists:artists2 ,
 zh: ""
 },
 "200081": {
-mp3Url:"	http://	susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P137_Check-Up%20Test%20Chapters%2015-17_Exercise%20F%20Listening.mp3",
+mp3Url:"	http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P137_Check-Up%20Test%20Chapters%2015-17_Exercise%20F%20Listening.mp3",
 album: { 
 picUrl: picUrl2,
 name: name2,

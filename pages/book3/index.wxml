@@ -1,0 +1,3 @@
+<!--pages/book3/index.wxml-->
+<br></br>
+ <button type="default" bindtap="bindViewTap" plain = "true">跳转到第2册以后</button>
