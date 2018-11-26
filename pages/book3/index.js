@@ -1,77 +1,61 @@
-// pages/book3/index.js
+//index.js
+var data = require('../../utils/data.js').songs3;
+
 Page({
+	data: {
+		imgUrls: [
+			'../../images/ad1.jpg',
+			'../../images/ad2.jpg',
+			'../../images/ad1.jpg',
+		]
+	},
 
-  /**
-   * 页面的初始数据
-   */
-  data: {
+	onLoad: function() {
+		var rs = [],
+			idsMap = {},
+			keys = Object.keys(data),
+			len = keys.length;
 
-  },
+		for (var i = 0; i < len; i++) {
+			var k = keys[i];
 
-  /**
-   * 生命周期函数--监听页面加载
-   */
-  onLoad: function (options) {
+			rs.push(Object.assign({
+				id: k,
+			}, data[k]));
 
-  },
+			idsMap[k] = {
+				preid: i > 0 ? keys[i - 1] : 0,
+				nextid: i < len - 1 ? keys[i + 1] : 0
+			}
+		}
 
-  /**
-   * 生命周期函数--监听页面初次渲染完成
-   */
-  onReady: function () {
+		idsMap[keys[0]].preid = keys[len - 1];
+		idsMap[keys[len - 1]].nextid = keys[0];
 
-  },
+		this.setData({
+			recommends: rs
+		});
 
-  /**
-   * 生命周期函数--监听页面显示
-   */
-  onShow: function () {
+		wx.setStorageSync('ids', idsMap);
+	},
+	playTap: function(e) {
+		const dataset = e.currentTarget.dataset;
+		wx.navigateTo({
+			url: `../play3/index?id=${dataset.id}`
+		})
+	},
 
-  },
-
-  /**
-   * 生命周期函数--监听页面隐藏
-   */
-  onHide: function () {
-
-  },
-
-  /**
-   * 生命周期函数--监听页面卸载
-   */
-  onUnload: function () {
-
-  },
-
-  /**
-   * 页面相关事件处理函数--监听用户下拉动作
-   */
-  onPullDownRefresh: function () {
-
-  },
-
-  /**
-   * 页面上拉触底事件的处理函数
-   */
-  onReachBottom: function () {
-
-  },
-
-  /**
-   * 用户点击右上角分享
-   */
   onShareAppMessage: function () {
-
+    return {
+      title: '朗文国际英语SBS第2册',
+      path: '/pages/book3/index',
+      success: function(res) {
+        // 分享成功
+      },
+      fail: function(res) {
+        // 分享失败
+      }
+    }
   },
 
-    bindViewTap: function () {
-      wx.navigateToMiniProgram({
-        appId: 'wx07076aac997700f5',
-        path: 'page/component/home/index',
-        extraData: {},
-        success(res) {
-          // 打开成功
-        }
-      })
-  },
 })

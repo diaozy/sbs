@@ -8,6 +8,9 @@
 	</view>
 </view>
 <view class="footer">
+<text>\n</text>
+<button open-type="share" class='btn' size = "mini" hover-class='btn_hover'>分享本音频</button>
+<text>\n\n</text>
 <ad unit-id="adunit-9d4528a8dba26b10"></ad>
 	<view class="progress">
 		<text>{{timeText}}</text>
@@ -15,11 +18,11 @@
 		<text>{{durationText}}</text>
 	</view>
   	<view class="controls">
-  		<image class="mode" mode="scaleToFill" bindtap="switchModeEvent" src="../../images/{{mode}}.png" />
-  		<image mode="scaleToFill" bindtap="prevEvent" src="../../images/prev.png" />
+ 		<image class="mode" mode="scaleToFill" bindtap="switchModeEvent" src="../../images/{{mode}}.png" />
+ 		<image mode="scaleToFill" bindtap="prevEvent" src="../../images/prev.png" />
 		<image mode="scaleToFill" bindtap="prev_f" src="../../images/prev_f_s.png" />
-  		<image mode="scaleToFill" bindtap="actionEvent" src="../../images/{{status === 'play' ? 'pause' : 'play'}}.png" />
-  		<image mode="scaleToFill" bindtap="next_f" src="../../images/next_f_s.png" />
+ 		<image mode="scaleToFill" bindtap="actionEvent" src="../../images/{{status === 'play' ? 'pause' : 'play'}}.png" />
+ 		<image mode="scaleToFill" bindtap="next_f" src="../../images/next_f_s.png" />
 		<image mode="scaleToFill" bindtap="nextEvent" src="../../images/next.png" />
 <!--
   		<image class="fav" mode="scaleToFill" bindtap="favEvent" src="../../images/{{fav}}.png" />

@@ -1,14 +1,11 @@
-<!--
-切换图片广告
--->
-<swiper autoplay>
+<!-- <swiper autoplay>
   <block wx:for="{{imgUrls}}">
     <swiper-item>
       <image src="{{item}}" class="slide-image" mode="scaleToFill"/>
     </swiper-item>
   </block>
-</swiper>
-
+</swiper> -->
+<ad unit-id="adunit-dcd26669e0fd29c5"></ad>
 <scroll-view scroll-y="true" class="container">
 	<block wx:for="{{recommends}}" wx:for-item="song">
 		<view class="block" bindtap="playTap" data-id="{{song.id}}">
@@ -30,5 +27,4 @@
 			</view>
 		</view>	
 	</block>
-<ad unit-id="adunit-dcd26669e0fd29c5"></ad>
 </scroll-view>

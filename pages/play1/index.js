@@ -328,7 +328,7 @@ Page({
 
   onShareAppMessage: function () {
     return {
-      title: '朗文国际英语SBS',
+      title: this.data.title,
       path: '/pages/play1/index?id='+this.data.currentId,
       success: function(res) {
         // 分享成功

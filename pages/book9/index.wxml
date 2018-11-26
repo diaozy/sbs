@@ -1,0 +1,5 @@
+<!--pages/book3/index.wxml-->
+ <ad unit-id="adunit-dcd26669e0fd29c5"></ad>
+<text>\n\n</text>
+ <button type="default" bindtap="bindViewTap" >第2册以后更多听力请点击</button>
+

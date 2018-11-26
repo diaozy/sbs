@@ -1,4 +1,4 @@
-var data = require('../../utils/data.js').songs2;
+var data = require('../../utils/data.js').songs4;
 var favUtil = require('../../utils/fav.js');
 var strRe = /\[(\d{2}:\d{2})\.\d{2,}\](.*)/;
 
@@ -330,7 +330,7 @@ Page({
   onShareAppMessage: function () {
     return {
       title: this.data.title,
-      path: '/pages/play2/index?id='+this.data.currentId,
+      path: '/pages/play4/index?id='+this.data.currentId,
       success: function(res) {
         // 分享成功
       },

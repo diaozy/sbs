@@ -47,7 +47,7 @@ Page({
 
   onShareAppMessage: function () {
     return {
-      title: '新概念英语听力',
+      title: '朗文国际英语SBS第1册',
       path: '/pages/book1/index',
       success: function(res) {
         // 分享成功

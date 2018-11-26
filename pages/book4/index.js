@@ -1,5 +1,5 @@
 //index.js
-var data = require('../../utils/data.js').songs2;
+var data = require('../../utils/data.js').songs4;
 
 Page({
 	data: {
@@ -41,14 +41,14 @@ Page({
 	playTap: function(e) {
 		const dataset = e.currentTarget.dataset;
 		wx.navigateTo({
-			url: `../play2/index?id=${dataset.id}`
+			url: `../play4/index?id=${dataset.id}`
 		})
 	},
 
   onShareAppMessage: function () {
     return {
-      title: '朗文国际英语SBS第1册练习册',
-      path: '/pages/book2/index',
+      title: '朗文国际英语SBS第2册练习册',
+      path: '/pages/book4/index',
       success: function(res) {
         // 分享成功
       },

@@ -2,11 +2,14 @@
   "pages": [
     "pages/book1/index",
     "pages/book2/index",
+    "pages/book3/index",
+    "pages/book4/index",
+    "pages/book9/index",
     "pages/play1/index",
     "pages/play2/index",
-    "pages/my/index",
-    "pages/book3",
-    "pages/book3/index"
+    "pages/play3/index",
+    "pages/play4/index",
+    "pages/my/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -33,6 +36,18 @@
       {
         "pagePath": "pages/book3/index",
         "text": "SBS 第2册",
+        "iconPath": "images/music.png",
+        "selectedIconPath": "images/music-active.png"
+      },
+      {
+        "pagePath": "pages/book4/index",
+        "text": "SBS 第2册练习",
+        "iconPath": "images/music.png",
+        "selectedIconPath": "images/music-active.png"
+      },
+      {
+        "pagePath": "pages/book9/index",
+        "text": "更多",
         "iconPath": "images/music.png",
         "selectedIconPath": "images/music-active.png"
       }
